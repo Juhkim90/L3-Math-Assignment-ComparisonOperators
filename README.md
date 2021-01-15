@@ -32,7 +32,7 @@ Used to assign values to variables.
 5. Modulo Assignment, `%=`
 6. Exponent Assignment, `**=`
 
-### Rule: Using Assignment Operators
+### Rule Using Assignment Operators
 A variable must be declared before using assignment operators with the variable.
 
 *Ex.*
@@ -52,7 +52,7 @@ Used to compare values for conditions. Return booleans after evalutions.
 5. greater than, `a > b`
 6. greater than or equal to, `a >= b`
 
-### Rule: Using Comparion Operators
+### Rule Using Comparion Operators
 Two objects are required such as a variable or a raw data/value.
 
 *Ex.*
