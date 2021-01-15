@@ -45,17 +45,18 @@ A variable must be declared before using assignment operators with the variable.
 ## Comparison Operators
 Used to compare values for conditions. Return booleans after evalutions.
 
-1. equal to, `==`
-2. not equal to, `!=`
-3. less than, `<`
-4. less than or equal to, `<=`
-5. greater than, `>`
-6. greater than or equal to, `>=`
+1. equal to, `a == b`
+2. not equal to, `a != b`
+3. less than, `a < b`
+4. less than or equal to, `a <=b `
+5. greater than, `a > b`
+6. greater than or equal to, `a >= b`
 
 ### Rule: Using Comparion Operators
 Two objects are required such as a variable or a raw data/value.
 
 *Ex.*
+`a = 5`
 `print (a > 4)`
 	> True
 
